@@ -135,6 +135,14 @@ html
 	position: relative;
 }
 
+#pu175
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 2px;
+	position: relative;
+}
+
 #u175
 {
 	z-index: 20;
@@ -147,7 +155,7 @@ html
 	-webkit-border-radius: 15px;
 	-khtml-border-radius: 15px;
 	border-radius: 15px;
-	padding-bottom: 28px;
+	padding-bottom: 10px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -156,8 +164,8 @@ html
 #u235-8
 {
 	z-index: 69;
-	width: 138px;
-	min-height: 20px;
+	width: 148px;
+	min-height: 67px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -215,7 +223,7 @@ html
 	position: relative;
 }
 
-#pu175,#pu180
+#pu180
 {
 	width: 0.01px;
 	margin-left: 10px;
