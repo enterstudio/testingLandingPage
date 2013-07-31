@@ -135,14 +135,6 @@ html
 	position: relative;
 }
 
-#pu175
-{
-	width: 0.01px;
-	margin-left: 10px;
-	margin-top: 2px;
-	position: relative;
-}
-
 #u175
 {
 	z-index: 20;
@@ -223,7 +215,7 @@ html
 	position: relative;
 }
 
-#pu180
+#pu175,#pu180
 {
 	width: 0.01px;
 	margin-left: 10px;
