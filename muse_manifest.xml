@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3823183679"/>
     <file name="master_a-master.css" crc="4073162155" ref="index"/>
-    <file name="index.css" crc="4073815268" ref="index"/>
+    <file name="index.css" crc="159093174" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="adobe-log.png" crc="4230008561" mt="1374180300000"/>
@@ -22,8 +22,8 @@
     <file name="u170-4.png" crc="172773167" ref="index"/>
     <file name="u171-4.png" crc="84114111" ref="index"/>
     <file name="u172-4.png" crc="461857364" ref="index"/>
-    <file name="u175-sprite.png" crc="4046533105" ref="index"/>
-    <file name="u180-sprite.png" crc="428958314" ref="index"/>
+    <file name="u175-sprite.png" crc="64266898" ref="index"/>
+    <file name="u180-sprite.png" crc="318410629" ref="index"/>
   </folder>
-  <file name="index.html" crc="180874299" mt="1375303774357"/>
+  <file name="index.html" crc="180874299" mt="1375388440484"/>
 </manifest>
